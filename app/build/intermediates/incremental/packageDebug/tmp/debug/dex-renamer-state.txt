@@ -1,0 +1,4 @@
+#Sat Nov 12 11:03:14 CET 2022
+base.0=/home/poste5/Bureau/Fares/android-fundamentals-exycodelabs/DroidCafeInput/app/build/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
